@@ -1,0 +1,5 @@
+runtime: nodejs14
+env: standard
+instance_class: F4_1G
+service: socotra-policyholder-api
+env_variables:
