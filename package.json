@@ -27,6 +27,7 @@
     "@nestjs/platform-express": "^8.0.0",
     "@nestjs/swagger": "^5.0.9",
     "@socotra/api": "^5.2.1",
+    "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
     "dotenv": "^10.0.0",
     "find-config": "^1.0.0",
